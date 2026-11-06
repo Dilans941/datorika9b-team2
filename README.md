@@ -1,4 +1,6 @@
-Renka Zvaigzne
-Spied uz zvaigznes lai iegūtu punktus.
-Zaudē ja sasniedz vairāk kā 5 punktu
-Atver index.html pārlūkā
+Renka Zvaigznes Mednieks.
+Spēli vinē ja dabū 5 punktus.
+Zaudē ja dabū pāri pa 5 punktiem
+Font-size 36px
+Border dashed
+Atver index.html pārlūkā.
